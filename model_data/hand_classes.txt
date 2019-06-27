@@ -1,0 +1,6 @@
+hand_z
+hand-center
+index-finger
+middle-finger
+ring-finger
+little-thumb
